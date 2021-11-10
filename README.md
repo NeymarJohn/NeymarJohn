@@ -78,6 +78,5 @@ Sincerely,</p>
 <code><a href="https://www.theshiftdrink.com/">Theshifdrink</a></code><br>
 
 # 🤝 Connect with Me
-<p align="center" dir="auto">
-<a href="mailto:neymarjohn215@gmail.com"><img src="https://camo.githubusercontent.com/73aaa2c7f0fdec31766a0847245a38c0db3386eef767d4de0dadaeffe71830de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d646b6f706534353140676d61696c2e636f6d2d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">neymarjohn215@gmail.com</a>
-</p>
+<p align="justify">My Email: neymarjohn215@gmail.com</p>
+<p align="justify">My Skype: live:.cid.1d822568e446d18</p>
