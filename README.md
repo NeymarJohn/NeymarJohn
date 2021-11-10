@@ -64,7 +64,7 @@ Sincerely,</p>
 <code><a href="https://play.google.com/store/apps/details?id=com.taxime.client">Taxi ME</a></code><br>
 ### React
 #### MERN STACK
-<code><a href="https://www.eventhi.io/">eventhio</a></code><br>
+<code><a href="https://www.eventhi.io/">EventHi</a></code><br>
 #### Web
 <code><a href="https://tuktuk-11aad.web.app/">TukTuk Taxi app</a></code><br>
 ###FITNESS APP
