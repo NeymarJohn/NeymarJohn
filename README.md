@@ -72,7 +72,7 @@ Sincerely,</p>
 
 ### Codeigniter
 #### LMS
-<code><a href="https://gosmartacademy.com/">Learning Management System</a></code><br>
+<code><a href="https://gosmartacademy.com/">Quality circle's LMS</a></code><br>
 ### Ruby On Rails
 #### Website
 <code><a href="https://www.theshiftdrink.com/">Theshifdrink</a></code><br>
