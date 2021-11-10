@@ -59,23 +59,23 @@ Sincerely,</p>
 ## My Protfolio
 ### React Native app
 #### TAXI BOOKING APP
-<code><a href="https://play.google.com/store/apps/details?id=com.tuk.tuk.company.app">TukTuk Taxi app</a></code><br>
-<code><a href="https://play.google.com/store/apps/details?id=com.usertaxi.taxiuser">TAXI USER</a></code><br>
-<code><a href="https://play.google.com/store/apps/details?id=com.taxime.client">Taxi ME</a></code><br>
+<code><a href="https://play.google.com/store/apps/details?id=com.tuk.tuk.company.app">TukTuk Taxi app</a></code>
+<code><a href="https://play.google.com/store/apps/details?id=com.usertaxi.taxiuser">TAXI USER</a></code>
+<code><a href="https://play.google.com/store/apps/details?id=com.taxime.client">Taxi ME</a></code>
 ### FITNESS APP
-<code><a href="https://play.google.com/store/apps/details?id=com.botondeauxilio.android&hl=en&gl=US">BOTÓN DE AUXILIO</a></code><br>
+<code><a href="https://play.google.com/store/apps/details?id=com.botondeauxilio.android&hl=en&gl=US">BOTÓN DE AUXILIO</a></code>
 ### React
 #### MERN STACK
-<code><a href="https://www.eventhi.io/">EventHi</a></code><br>
+<code><a href="https://www.eventhi.io/">EventHi</a></code>
 #### Web
-<code><a href="https://tuktuk-11aad.web.app/">TukTuk Taxi app</a></code><br>
+<code><a href="https://tuktuk-11aad.web.app/">TukTuk Taxi app</a></code>
 
 ### Codeigniter
 #### LMS
-<code><a href="https://gosmartacademy.com/">Quality circle's LMS</a></code><br>
+<code><a href="https://gosmartacademy.com/">Quality circle's LMS</a></code>
 ### Ruby On Rails
 #### Website
-<code><a href="https://www.theshiftdrink.com/">Theshifdrink</a></code><br>
+<code><a href="https://www.theshiftdrink.com/">Theshifdrink</a></code>
 
 # 🤝 Connect with Me
 <p align="justify">My Email: neymarjohn215@gmail.com</p>
