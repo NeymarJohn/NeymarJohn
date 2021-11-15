@@ -77,6 +77,3 @@ Sincerely,</p>
 #### Website
 <code><a href="https://www.theshiftdrink.com/">Theshifdrink</a></code>
 
-# 🤝 Connect with Me
-<p align="justify">My Email: neymarjohn215@gmail.com</p>
-<p align="justify">My Skype: live:.cid.1d822568e446d18</p>
