@@ -21,6 +21,7 @@
 <br>
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Oracle-oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mongo-mongo-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/Blockchain-blockchain-yellow?style=flat&logo=blockchain.com&logoColor=white&color=2bbc8a)
 <br>
