@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Blockchain-blockchain-informational?style=flat&logo=blockchain&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Blockchain-blockchain-informational?style=flat&logo=blockchain.com&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/solidity-solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)
 
