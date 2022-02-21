@@ -16,6 +16,9 @@
 ![](https://img.shields.io/badge/Blockchain-blockchain-informational?style=flat&logo=blockchain.com&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/solidity-solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Android-android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ios-ios-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Expo-expo-informational?style=flat&logo=expo&logoColor=white&color=2bbc8a)
 
 <p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
 
