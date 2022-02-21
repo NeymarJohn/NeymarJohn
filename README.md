@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Express-express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Php-php-yellow?style=flat&logo=php&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
@@ -21,6 +22,7 @@
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/Blockchain-blockchain-yellow?style=flat&logo=blockchain.com&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/solidity-solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)
 <br>
