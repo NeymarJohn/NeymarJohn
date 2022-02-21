@@ -9,12 +9,10 @@
 ![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Express-express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Php-php-yellow?style=flat&logo=php&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-
 <br>
 ![](https://img.shields.io/badge/Java-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
