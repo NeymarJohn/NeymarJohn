@@ -2,23 +2,33 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
 
-![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Javascript-javascript-yellow?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/NodeJS-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ReactJs-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Express-express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Php-php-yellow?style=flat&logo=php&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Java-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Blockchain-blockchain-informational?style=flat&logo=blockchain.com&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/Blockchain-blockchain-yellow?style=flat&logo=blockchain.com&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/solidity-solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Android-android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ios-ios-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Expo-expo-informational?style=flat&logo=expo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 
 <p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
 
