@@ -48,7 +48,6 @@ Sincerely,</p>
 
 ### Languages/Frameworks I'm learning:
 
-<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="https://topskill.dev/logos/django.png" height="42"></a></code>
 
 ### Environments I work with:
 
