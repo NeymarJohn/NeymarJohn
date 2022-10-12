@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/Ios-ios-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Expo-expo-informational?style=flat&logo=expo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React Native-react native-informational?style=flat&logo=React Native&logoColor=white&color=2bbc8a)
 
 <p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
 
