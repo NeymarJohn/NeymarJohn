@@ -65,7 +65,7 @@ Sincerely,</p>
 <code><a href="https://www.mysql.com"><img alt="mysql" title="Mysql" src="https://github.com/neymarjohn/logos/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/neymarjohn/logos/blob/master/postgres.png" height="42"></a></code>
 <code><a href="https://www.mongodb.com"><img alt="Mongodb" title="Mongodb" src="https://github.com/neymarjohn/logos/blob/master/mongodb.png" height="42"></a></code>
-<code><a href="https://www.rubyonrails.org"><img alt="Mongodb" title="Mongodb" src="https://github.com/neymarjohn/logos/blob/master/rubyonrails.png" height="42"></a></code>
+<code><a href="https://www.rubyonrails.org"><img alt="Ruby on Rails" title="Ruby on Rails" src="https://github.com/neymarjohn/logos/blob/master/rubyonrails.png" height="42"></a></code>
 <code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/neymarjohn/logos/blob/master/codeignitor.png" height="42"></a></code>
 <code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/neymarjohn/logos/blob/master/flutter.png" height="42"></a></code>
 
