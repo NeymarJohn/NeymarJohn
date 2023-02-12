@@ -52,6 +52,7 @@ Sincerely,</p>
 ## My Skills
 
 ### Languages/Frameworks I'm good at:
+<code><a href="https://solidity.com/"><img alt="Solidity" title="Solidity" src="https://github.com/neymarjohn/logos/blob/master/solidity.png" height="42"></a></code>
 <code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/neymarjohn/logos/blob/master/solana.png" height="42"></a></code>
 <code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/neymarjohn/logos/blob/master/laravel.png" height="42"></a></code>
 <code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/neymarjohn/logos/blob/master/nodejs.png" height="42"></a></code>
@@ -60,9 +61,11 @@ Sincerely,</p>
 <code><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/neymarjohn/logos/blob/master/java.png" height="42"></a></code>
 <code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/neymarjohn/logos/blob/master/angular.png" height="42"></a></code>
 <code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/neymarjohn/logos/blob/master/python.png" height="42"></a></code>
+<code><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/neymarjohn/logos/blob/master/django.png" height="42"></a></code>
 <code><a href="https://www.mysql.com"><img alt="mysql" title="Mysql" src="https://github.com/neymarjohn/logos/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/neymarjohn/logos/blob/master/postgres.png" height="42"></a></code>
 <code><a href="https://www.mongodb.com"><img alt="Mongodb" title="Mongodb" src="https://github.com/neymarjohn/logos/blob/master/mongodb.png" height="42"></a></code>
+<code><a href="https://www.rubyonrails.org"><img alt="Mongodb" title="Mongodb" src="https://github.com/neymarjohn/logos/blob/master/rubyonrails.png" height="42"></a></code>
 <code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/neymarjohn/logos/blob/master/codeignitor.png" height="42"></a></code>
 <code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/neymarjohn/logos/blob/master/flutter.png" height="42"></a></code>
 
