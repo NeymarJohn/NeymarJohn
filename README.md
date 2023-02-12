@@ -52,19 +52,19 @@ Sincerely,</p>
 ## My Skills
 
 ### Languages/Frameworks I'm good at:
-<code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/neymarjohn/logos/solana.png" height="42"></a></code>
-<code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/neymarjohn/logos/laravel.png" height="42"></a></code>
-<code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/neymarjohn/logos/nodejs.png" height="42"></a></code>
-<code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/neymarjohn/logos/react.png" height="42"></a></code>
-<code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/neymarjohn/logos/vue.png" height="42"></a></code>
-<code><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/neymarjohn/logos/java.png" height="42"></a></code>
-<code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/neymarjohn/logos/angular.png" height="42"></a></code>
-<code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/neymarjohn/logos/python.png" height="42"></a></code>
-<code><a href="https://www.mysql.com"><img alt="mysql" title="Mysql" src="https://github.com/neymarjohn/logos/mysql.png" height="42"></a></code>
-<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/neymarjohn/logos/postgresql.png" height="42"></a></code>
-<code><a href="https://www.mongodb.com"><img alt="Mongodb" title="Mongodb" src="https://github.com/neymarjohn/logos/mongodb.png" height="42"></a></code>
-<code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/neymarjohn/logos/codeignitor.png" height="42"></a></code>
-<code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/neymarjohn/logos/flutter.png" height="42"></a></code>
+<code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/neymarjohn/logos/blob/master/solana.png" height="42"></a></code>
+<code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/neymarjohn/logos/blob/master/laravel.png" height="42"></a></code>
+<code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/neymarjohn/logos/blob/master/nodejs.png" height="42"></a></code>
+<code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/neymarjohn/logos/blob/master/react.png" height="42"></a></code>
+<code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/neymarjohn/logos/blob/master/vue.png" height="42"></a></code>
+<code><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/neymarjohn/logos/blob/master/java.png" height="42"></a></code>
+<code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/neymarjohn/logos/blob/master/angular.png" height="42"></a></code>
+<code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/neymarjohn/logos/blob/master/python.png" height="42"></a></code>
+<code><a href="https://www.mysql.com"><img alt="mysql" title="Mysql" src="https://github.com/neymarjohn/logos/blob/master/mysql.png" height="42"></a></code>
+<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/neymarjohn/logos/blob/master/postgres.png" height="42"></a></code>
+<code><a href="https://www.mongodb.com"><img alt="Mongodb" title="Mongodb" src="https://github.com/neymarjohn/logos/blob/master/mongodb.png" height="42"></a></code>
+<code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/neymarjohn/logos/blob/master/codeignitor.png" height="42"></a></code>
+<code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/neymarjohn/logos/blob/master/flutter.png" height="42"></a></code>
 
 ## My Protfolio
 ### React Native app
