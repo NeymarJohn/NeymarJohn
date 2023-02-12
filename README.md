@@ -72,8 +72,6 @@ Sincerely,</p>
 ## My Protfolio
 ### React Native app
 #### TAXI BOOKING APP
-<code><a href="https://play.google.com/store/apps/details?id=com.tuk.tuk.company.app">TukTuk Taxi app</a></code>
-<code><a href="https://play.google.com/store/apps/details?id=com.usertaxi.taxiuser">TAXI USER</a></code>
 <code><a href="https://play.google.com/store/apps/details?id=com.taxime.client">Taxi ME</a></code>
 ### FITNESS APP
 <code><a href="https://play.google.com/store/apps/details?id=com.botondeauxilio.android&hl=en&gl=US">BOTÓN DE AUXILIO</a></code>
