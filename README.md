@@ -69,24 +69,6 @@ Sincerely,</p>
 <code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/neymarjohn/logos/blob/master/codeignitor.png" height="42"></a></code>
 <code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/neymarjohn/logos/blob/master/flutter.png" height="42"></a></code>
 
-## My Protfolio
-### React Native app
-#### TAXI BOOKING APP
-<code><a href="https://play.google.com/store/apps/details?id=com.taxime.client">Taxi ME</a></code>
-### FITNESS APP
-<code><a href="https://play.google.com/store/apps/details?id=com.botondeauxilio.android&hl=en&gl=US">BOTÓN DE AUXILIO</a></code>
-### React
-#### MERN STACK
-<code><a href="https://www.eventhi.io/">EventHi</a></code>
-#### Web
-<code><a href="https://tuktuk-11aad.web.app/">TukTuk Taxi app</a></code>
-
-### Codeigniter
-#### LMS
-<code><a href="https://gosmartacademy.com/">Quality circle's LMS</a></code>
-### Ruby On Rails
-#### Website
-<code><a href="https://www.theshiftdrink.com/">Theshifdrink</a></code>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=NeymarJohn&&show_icons=true&theme=radical"/>
