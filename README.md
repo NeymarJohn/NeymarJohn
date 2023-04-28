@@ -17,6 +17,7 @@
 <br>
 ![](https://img.shields.io/badge/C-c-information?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C-c++-information?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C-c%23-information?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Java-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
