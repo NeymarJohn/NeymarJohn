@@ -15,6 +15,8 @@
 ![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 <br>
+![](https://img.shields.io/badge/C-c-information?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C-c++-information?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Java-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
@@ -37,8 +39,8 @@
 <p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
 
 <p align="justify">I tend to view myself as a generalist since I try not to focus on any given technology. 
-My skills range from PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, 
-and I have 5+ years of experience. </p>
+My skills range from C, C++, C# PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, 
+and I have 10+ years of experience. </p>
 
 <p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
 
