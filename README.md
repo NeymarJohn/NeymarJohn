@@ -72,9 +72,9 @@ Sincerely,</p>
 <code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/neymarjohn/logos/blob/master/codeignitor.png" height="42"></a></code>
 <code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/neymarjohn/logos/blob/master/flutter.png" height="42"></a></code>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/neymarjohn"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=NeymarJohn&&show_icons=true&theme=radical"/>
   </a>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NeymarJohn&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
-</p>
+</p> -->
